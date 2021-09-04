@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dpdp11&show_icons=true&theme=radical" alt="dpdp11 GitHub Stats" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpdp11&show_icons=true&theme=radical" alt="dpdp11 Top Languages"</p>
+<p><img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=dpdp11&theme=radical" alt="dpdp11 Streak" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpdp11&show_icons=true&theme=radical" alt="dpdp11 Top Languages"</p>
   
-<p><img align="centre" src="http://github-readme-streak-stats.herokuapp.com?user=dpdp11&theme=radical" alt="dpdp11 Streak" /></p>
+
 
 
