@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dpdp11" alt="dpdp11" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dpdp11&show_icons=true&theme=radical" alt="dpdp11" /></p>
 
