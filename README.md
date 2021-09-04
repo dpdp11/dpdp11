@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dpdp11&show_icons=true&theme=radical" alt="dpdp11" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dpdp11&show_icons=true&theme=radical" alt="dpdp11 GitHub Stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpdp11&show_icons=true&theme=radical" alt="dpdp11 Top Languages"</p>
+
 
