@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-  <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+  <img align="right" alt="Coding" width="400" src="https://content.techgig.com/thumb/msid-74548080,width-860,resizemode-4/4-essential-skills-every-NET-developer-must-possess.jpg?67629">
 
 <!--
 **dpdp11/dpdp11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
