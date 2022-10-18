@@ -17,8 +17,8 @@
 
 ## 📊 My Github Stats
 
-<p align="center">
-    <img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=dpdp11&theme=horizon&hide_border=true" alt="dpdp11 Streak" />
+<p>
+  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=dpdp11&theme=horizon&hide_border=true" alt="dpdp11 Streak" />
 </p>
 
 <br/>
